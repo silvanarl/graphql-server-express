@@ -1,0 +1,58 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Eloquent JavaScript",
+            "published": 2011,
+            "author": "Marijn Haverbeke",
+            "cover": "https://eloquentjavascript.net/img/cover.jpg",
+            "website": "https://eloquentjavascript.net",
+            "topic": "javascript"
+        },
+        {
+            "id": 2,
+            "title": "Jane Eyre",
+            "published": 1847,
+            "author": "Charlotte Bronte",
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557343311l/10210._SY475_.jpg",
+            "website": "",
+            "topic": "gothic"
+        },
+        {
+            "id": 3,
+            "title": "Una habitación propia",
+            "published": 1929,
+            "author": "Virginia Woolf",
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470253471l/31344527._SX318_.jpg",
+            "website": "",
+            "topic": "feminismo"
+        },
+        {
+            "id": 4,
+            "title": "Neuromancer",
+            "published": 1984,
+            "author": "William Gibson",
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SY475_.jpg",
+            "website": "",
+            "topic": "cyberpunk"
+        },
+        {
+            "id": 5,
+            "title": "La mano izquierda de la oscuridad",
+            "published": 1969,
+            "author": "Ursula K. Le Guin",
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328983543l/13480819.jpg",
+            "website": "",
+            "topic": "sci-fi"
+        },
+        {
+            "id": 6,
+            "title": "Clean Code",
+            "published": 1969,
+            "author": "Ursula K. Le Guin",
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328983543l/13480819.jpg",
+            "website": "",
+            "topic": "javascript"
+        }
+    ]
+}
